@@ -1,1 +1,2 @@
 Mejora inicial de interfaz
+Se agrega menú lateral
